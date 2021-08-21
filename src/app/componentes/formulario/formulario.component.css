@@ -1,0 +1,9 @@
+.negado{
+    color: red;
+    font-weight: bolder;
+}
+
+.permitido{
+    color: green;
+    font-weight: lighter; 
+}
